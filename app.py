@@ -1,6 +1,5 @@
 import streamlit as st
 
-st.set_option('deprecation.showPyplotGlobalUse', False)
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
@@ -10,7 +9,6 @@ import warnings
 
 warnings.filterwarnings("ignore")
 sns.set_style('whitegrid')
-plt.style.use("seaborn-notebook")
 
 ##  MAIN PAGE  ##
 
