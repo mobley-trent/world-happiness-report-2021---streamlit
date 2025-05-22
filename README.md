@@ -1,6 +1,7 @@
 # World Happiness Report 2021 - Streamlit Dashboard
 
 This project is an interactive dashboard for exploring the World Happiness Report 2021 using [Streamlit](https://streamlit.io/). It visualizes happiness scores and related factors for countries around the world.
+The live version of the dashboard can be found at this [link](https://mobley-trent-world-happiness-report-2021---streamlit-app-g1okim.streamlit.app/)
 
 ## Features
 
